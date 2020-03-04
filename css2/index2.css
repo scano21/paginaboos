@@ -1,0 +1,94 @@
+
+#nav1{
+    background: #236df6;
+    color: white;
+}
+.sli img{
+    width:100% ;
+    height: 500px;
+}
+.circle{
+    margin-left: 10%;
+    margin-top: 6%;
+
+}
+.title{
+    width: 20%;
+    height: 20px;
+    margin-top: 3%;
+    text-align: center;
+    font-size: 150%;
+}
+.alb{
+    margin-left: -3%;
+    margin-top: 7%;
+    
+}
+#p{
+    margin-left: 13%;
+    height: 100px;
+}
+#s{
+    margin-left: 17%;
+}
+.title2{
+    text-align: center;
+}
+.title3{
+    text-align: center;
+    margin-top: 4%;
+}
+.album2{
+    margin-top:7%; 
+}
+.album2 img{
+    width:50%;
+    height:230px ;
+}
+.album2 p{
+    margin-top: 3%;
+}
+.calendario {
+    display: inline-flex;
+    margin-top: 10%;
+    
+}
+.ene img{
+    margin-left:3%;
+   width: 180%;
+    height: 400px;
+}
+.feb img{
+    margin-left:120%;
+    width: 180%;
+    height: 400px;
+}
+.mar img{
+    margin-left:190%;
+    width: 150%;
+    height: 400px;
+}
+.boton #bot{
+    background-color: coral;
+    margin-top: 220%;
+    margin-left: -70%;
+}
+.circle3 {
+    margin-top:9%;
+}
+.form{
+    margin-top: 15%;
+  
+    background: rgb(123, 180, 255);
+}
+.boto{
+    margin-top: 10%;
+    margin-left: 400%;
+    background-color: coral;
+}
+.mapa img{
+    width: 100%;
+    height:850px;
+    margin-top: 8%;
+}
+
