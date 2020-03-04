@@ -1,18 +1,20 @@
 
+body{
+    background-color: #79c3c8;
+}
 #nav1{
     background: #236df6;
     color: white;
 }
-.sli img{
+#sli img{
     width:100% ;
     height: 200px;
 }
-.circle{
-    margin-left: 10%;
-    margin-top: 6%;
-
+#circ{
+    margin-left:8%;
+    margin-top: 10%;
 }
-.title{
+.title2{
     width: 20%;
     height: 20px;
     margin-top: 3%;
@@ -36,21 +38,24 @@
 }
 .title3{
     text-align: center;
-    margin-top: 4%;
+    margin-top: 7%;
+}
+.circle2{
+    margin-top: 5%;
 }
 .album2{
     margin-top:7%; 
 }
 .album2 img{
-    width:50%;
-    height:230px ;
+    width:100%;
+    height:250px ;
 }
 .album2 p{
     margin-top: 3%;
 }
 .calendario {
     display: inline-flex;
-    margin-top: 10%;
+    margin-top: 5%;
     
 }
 .ene img{
